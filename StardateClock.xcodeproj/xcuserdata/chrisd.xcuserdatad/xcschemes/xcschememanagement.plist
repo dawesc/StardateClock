@@ -7,12 +7,30 @@
 		<key>StardateClock Watch App.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>StardateClockComplicationExtension.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8542BA382FCC355000DD00D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8542BA3E2FCC355000DD00D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8542BA5F2FCC363A00DD00D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
