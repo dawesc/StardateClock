@@ -1,6 +1,7 @@
 import WidgetKit
 import SwiftUI
 import Foundation
+import StardateCore
 
 struct StardateEntry: TimelineEntry {
     let date: Date
